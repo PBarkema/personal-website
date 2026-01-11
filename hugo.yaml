@@ -1,0 +1,28 @@
+title: Pieter Barkema | Research Scientist & Engineer
+baseURL: 'https://pbarkema.github.io/'
+theme: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_'
+  exec:
+    allow:
+      - '^(dart-)?sass(-embedded)?$'
+      - '^go$'
+      - '^git$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
+
+pagination:
+  pagerSize: 10
+services:
+  googleAnalytics:
+    id: 'G-XXXXXXXXXX' # You can leave this as a dummy ID for now

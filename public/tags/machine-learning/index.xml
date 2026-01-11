@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Pieter Barkema | Research Scientist &amp; Engineer</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>PCNportal: Scalable Normative Modelling</title>
+      <link>http://localhost:1313/project/pcnportal/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pcnportal/</guid>
+      <description>&lt;p&gt;Built with &lt;strong&gt;Flask&lt;/strong&gt;, &lt;strong&gt;Docker&lt;/strong&gt;, and &lt;strong&gt;Gunicorn&lt;/strong&gt;, this platform allows clinical researchers to apply hierarchical Bayesian models to individual brain data at scale.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

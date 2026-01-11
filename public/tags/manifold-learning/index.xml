@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifold Learning | Pieter Barkema | Research Scientist &amp; Engineer</title>
+    <link>http://localhost:1313/tags/manifold-learning/</link>
+      <atom:link href="http://localhost:1313/tags/manifold-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manifold Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>Manifold Learning</title>
+      <link>http://localhost:1313/tags/manifold-learning/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Category Information (CCI)</title>
+      <link>http://localhost:1313/project/cci-metric/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cci-metric/</guid>
+      <description>&lt;h3 id=&#34;the-challenge-signal-vs-noise&#34;&gt;The Challenge: Signal vs. Noise&lt;/h3&gt;
+&lt;p&gt;In neuroimaging, &amp;ldquo;noise&amp;rdquo; is often defined as trial-to-trial variability that doesn&amp;rsquo;t match the stimulus. However, much of this variability is shared across neuronal populations and may represent top-down feedback or internal predictions.&lt;/p&gt;
+&lt;h3 id=&#34;the-innovation-the-cci-metric&#34;&gt;The Innovation: The CCI Metric&lt;/h3&gt;
+&lt;p&gt;I invented the &lt;strong&gt;Cross-Condition Information (CCI)&lt;/strong&gt; metric to quantify how much of this &amp;ldquo;noise&amp;rdquo; is actually structured and informative. With &lt;strong&gt;Manifold Learning&lt;/strong&gt; (PCA) and &lt;strong&gt;Subspace Alignment&lt;/strong&gt;, CCI measures the overlap between variation in neural representation spaces across objects from the same category (i.e. different animals).&lt;/p&gt;
+&lt;h3 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Manifold Alignment:&lt;/strong&gt; Developed algorithms to align low-dimensional latent representations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noise Decoding:&lt;/strong&gt; Demonstrated that trial-by-trial variability is not stochastic but follows a specific geometric structure that predicts behavioral outcomes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High-Performance Computing:&lt;/strong&gt; Optimized the pipeline in &lt;strong&gt;Python (NumPy/SciPy)&lt;/strong&gt; to process multi-terabyte datasets across HPC clusters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scientific-impact&#34;&gt;Scientific Impact&lt;/h3&gt;
+&lt;p&gt;CCI provides a tool for researchers to interrogate how informative &lt;strong&gt;noise&lt;/strong&gt; in the brain is for &lt;strong&gt;object classification&lt;/strong&gt; in human vision.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

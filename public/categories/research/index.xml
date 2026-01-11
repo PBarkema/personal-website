@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Pieter Barkema | Research Scientist &amp; Engineer</title>
+    <link>http://localhost:1313/categories/research/</link>
+      <atom:link href="http://localhost:1313/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>Research</title>
+      <link>http://localhost:1313/categories/research/</link>
+    </image>
+    
+    <item>
+      <title>Postdictive Perception in Primary Visual Cortex</title>
+      <link>http://localhost:1313/project/postdiction7tfmri/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/postdiction7tfmri/</guid>
+      <description>&lt;h3 id=&#34;the-science-of-postdiction&#34;&gt;The Science of Postdiction&lt;/h3&gt;
+&lt;p&gt;Do brain representations reflect what was presented to our eyes (retinal input) or what we actually perceive? This project investigates &lt;strong&gt;Postdiction&lt;/strong&gt;, a phenomenon where information arriving later influences how we perceive an earlier event.&lt;/p&gt;
+&lt;h3 id=&#34;research-highlights--technical-achievements&#34;&gt;Research Highlights &amp;amp; Technical Achievements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Neuroimaging:&lt;/strong&gt; Used &lt;strong&gt;7T fMRI&lt;/strong&gt; to achieve layer-specific resolution in the primary visual cortex (V1).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer-Specific Decoding:&lt;/strong&gt; Discovered that &lt;strong&gt;deep layers of V1&lt;/strong&gt; encode subjective perception (illusory flashes), while &lt;strong&gt;middle layers&lt;/strong&gt; continue to track the objective retinal input.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Top-Down Modulation:&lt;/strong&gt; Identified that postdictive perception is likely facilitated by feedback from &lt;strong&gt;superior temporal cortex&lt;/strong&gt; to the early visual cortex.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Management:&lt;/strong&gt; Led a &lt;strong&gt;£400K project&lt;/strong&gt; end-to-end, managing a team of three students and coordinating data collection for over 300 participants.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High-Impact Communication:&lt;/strong&gt; Presented findings at the &lt;strong&gt;Visual Science Society (VSS) 2025&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scientific-impact&#34;&gt;Scientific Impact&lt;/h3&gt;
+&lt;p&gt;Our findings complete a &lt;strong&gt;feedback model&lt;/strong&gt; of sensory processing across seeing and hearing, suggesting that early visual cortex is not just a passive relay station but an active participant in constructing hallucinations and perception.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
