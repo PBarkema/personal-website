@@ -29,6 +29,6 @@ experience:
     location: London, UK
     date_start: '2019-10-01'
     date_end: '2020-08-01'
-    description: Trained, curated data for, and evaluated Large Language Models (LLMs) used by millions. Solved >100 bugs.
+    description: Trained, curated data for, and evaluated Large Language Models (LLMs) used by millions. Solved >100 bugs. Worked in a high-throughput RLHF-style environment to align model outputs with user intent.
 
 ---
