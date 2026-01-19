@@ -73,4 +73,4 @@ I am a **Brain & AI Scientist** at **University College London**, and a **Scient
 
 Humans and LLMs are both interrogable black boxes. I want to use my scientific expertise to make LLMs become more accurate in their thinking, through experimental design and computational modelling of their internal representations. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/Pieter_Barkema_CV_AISafety.pdf" "newtab" >}}resumé{{< /staticref >}}.
